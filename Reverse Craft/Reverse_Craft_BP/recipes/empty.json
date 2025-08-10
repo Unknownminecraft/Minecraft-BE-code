@@ -1,0 +1,29 @@
+{
+    "format_version": "1.10.0",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "chest:empty"
+        },
+        "tags": ["crafting_table"],
+        "pattern": ["e", "E", "#"],
+        "key": {
+            "#": {
+                "item": "minecraft:stick"
+            },
+            "E": {
+                "item": "minecraft:dirt"
+            },
+            "e": {
+                "item": "minecraft:book"
+            }
+        },
+        "result": {
+            "item": "chest:empty"
+        },
+        "unlock": [
+            {
+                "item": "minecraft:dirt"
+            }
+        ]
+    }
+}
