@@ -1,0 +1,9 @@
+{
+	"resource_pack_name": "Reverse Craft R.P",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"empty": {
+			"textures": "textures/items/chesti"
+    }
+  }
+}
