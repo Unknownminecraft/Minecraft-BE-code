@@ -1,0 +1,44 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Unknown_Minecraft"
+		]
+	},
+	"header": {
+		"name": "§eReverse §rCraft [§dR.P§r]",
+		"description": "Tied of crafting same thing? Let's Try different! \nThis addon add recipes so you you can item in reverse manner",
+		"min_engine_version": [
+			1,
+			21,
+			80
+		],
+		"uuid": "d73d383d-580b-47e5-a6be-2574edb55f7c",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "0446abef-3272-4e8a-ad1d-7ad52f8f170a",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "f210c243-545d-42f5-807f-377542ee7800",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
