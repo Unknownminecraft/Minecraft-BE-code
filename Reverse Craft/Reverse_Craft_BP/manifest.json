@@ -1,0 +1,45 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "§eReverse §rCraft [§aB.P§r]",
+    "description": "Tied of crafting same thing? Let's Try different! \nThis addon add recipes so you you can item in reverse manner.§cYouTube: §bhttps://youtube.com/@decodingmnetwork?si=QxhLxiga9uZY1lKj §r\n.\n§eCurrent version only different chests can be crafted.§r\n§1§lIn this pack:\n §r• All 59 craftable structure chest \n • comments for more.. ",
+    "uuid": "f210c243-545d-42f5-807f-377542ee7800",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      80
+    ]
+  },
+  "modules": [
+    {
+      "description": "This addon add recipes so you you can item in reverse manner.",
+      "type": "data",
+      "uuid": "3957df18-3fa7-4f59-b25c-fa436a799aeb",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "d73d383d-580b-47e5-a6be-2574edb55f7c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Unknown_Minecraft"
+    ]
+  }
+}
