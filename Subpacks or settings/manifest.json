@@ -1,0 +1,35 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "5255c83b-917e-4e9f-ad59-334a0bc0d214",  // change these numbers 
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 60]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "10e3b491-13e5-4214-a582-b9c854944311",  //  change these numbers 
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {"product_type": "addon"},
+  "subpacks": [
+    {
+      "folder_name": "default",
+      "name": "�edefault, (...)\n �r�oDescription here",  // enter description 
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "medium",
+      "name": "�emore (...)\n �r�oDescription here",  // enter description 
+      "memory_tier": 10
+    },
+    {
+      "folder_name": "max",
+      "name": "�emax (.....)s\n �r�o Description here",  // enter description 
+      "memory_tier": 26
+    }
+  ]
+}
