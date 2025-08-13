@@ -19,17 +19,17 @@
     {
       "folder_name": "default",
       "name": "�edefault, (...)\n �r�oDescription here",  // enter description 
-      "memory_tier": 0
+      "memory_tier": 4 // 1 GB RAM
     },
     {
       "folder_name": "medium",
       "name": "�emore (...)\n �r�oDescription here",  // enter description 
-      "memory_tier": 10
+      "memory_tier": 32 // 8 GB RAM
     },
     {
       "folder_name": "max",
       "name": "�emax (.....)s\n �r�o Description here",  // enter description 
-      "memory_tier": 26
+      "memory_tier": 64  // 12 GB RAM
     }
   ]
 }
