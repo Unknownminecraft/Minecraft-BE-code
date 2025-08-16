@@ -18,12 +18,12 @@
   "subpacks": [
     {
       "folder_name": "more",
-      "name": "more (...)\n Adds more diamonds, now you can find on the surface!", // 4=1gb here4gb
+      "name": "pack.more", // 4=1gb here4gb
       "memory_tier": 16
     }, 
     {
       "folder_name": "max",
-      "name": "max (beta)\n Alert!  This addon can ruin your world by filling up diamonds everywhere.",  // +12 gb ram
+      "name": "pack.max",  // +12 gb ram
       "memory_tier": 68
     },
     {
