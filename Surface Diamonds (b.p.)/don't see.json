@@ -1,0 +1,35 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "pack.name",
+    "description": "pack.description",
+    "uuid": "5255c83b-917e-4e9f-ad59-234a0bc0d214",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 60]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "10e3b491-13e5-4224-a582-b9c854944311",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {"product_type": "addon"},
+  "subpacks": [
+    {
+      "folder_name": "more",
+      "name": "more (...)\n Adds more diamonds, now you can find on the surface!", // 4=1gb here4gb
+      "memory_tier": 16
+    }, 
+    {
+      "folder_name": "max",
+      "name": "max (beta)\n Alert!  This addon can ruin your world by filling up diamonds everywhere.",  // +12 gb ram
+      "memory_tier": 68
+    },
+    {
+      "folder_name": "default",
+      "name": "pack.default",
+      "memory_tier": 0
+    }
+  ]
+}
