@@ -8,7 +8,7 @@ Sone minecraft bedrock json codes are here.
 | -------------------- | ------------- |
 | items.zip or .7z     |    Not me     |
 | reverse craft        |      me      |
-| [Subpacks](https://github.com/Unknownminecraft/Minecraft-BE-code/tree/main/Subpacks or settings or settings) | me          |
+| [Subpacks](https://github.com/Unknownminecraft/Minecraft-BE-code/tree/main/Subpacks) or settings or settings   | me          |
 
 
 App made by me (video & music player {with chapters}) https://9000-firebase-studio-1755253045294.cluster-zumahodzirciuujpqvsniawo3o.cloudworkstations.dev/
