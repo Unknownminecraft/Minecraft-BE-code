@@ -14,7 +14,7 @@
       "version": [1, 0, 0]
     }
   ],
-  "metadata": {"product_type": "addon"},
+  "metadata": {"product_type": "addon"}, //*achievement enabled*//
   "subpacks": [
     {
       "folder_name": "max", // 1st
