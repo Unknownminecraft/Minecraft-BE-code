@@ -17,19 +17,19 @@
   "metadata": {"product_type": "addon"},
   "subpacks": [
     {
+      "folder_name": "max", // 1st
+      "name": "§emax (.....)s\n §r§o Description here",  // enter description 
+      "memory_tier": 12 // 4gb ram 
+    },
+    {
+      "folder_name": "medium", // 2nd
+      "name": "§emore (...)\n §r§oDescription here",  // enter description 
+      "memory_tier": 10  // 10/4=2.5gb ram required 
+    },
+    {
       "folder_name": "default",
-      "name": "�edefault, (...)\n �r�oDescription here",  // enter description 
-      "memory_tier": 4 // 1 GB RAM
-    },
-    {
-      "folder_name": "medium",
-      "name": "�emore (...)\n �r�oDescription here",  // enter description 
-      "memory_tier": 32 // 8 GB RAM
-    },
-    {
-      "folder_name": "max",
-      "name": "�emax (.....)s\n �r�o Description here",  // enter description 
-      "memory_tier": 64  // 12 GB RAM
+      "name": "§edefault, (...)\n §r§oDescription here", //* in case these sentences aren't visible, just remove"§" with its first character.*// //* enter description*// 
+      "memory_tier": 0 // 3rd but equipped by default
     }
   ]
 }
